@@ -11,19 +11,19 @@ After completing these two tasks, we were to summarize how the data varied by ci
 
 # __Results__
 
-## Below is a summary of the ride-sharing data across the different city types:
+Below is a summary of the ride-sharing data across the different city types:
 
 ![](PyBer_SummaryDF.png)
 
-## ZXcZXc
+ZXcZXc
 
 ![](tfb_ByCity.png)
 
-## aasdf 
+aasdf 
 
 # __Recommendations to address disparities among city types__
 
-  ## 1.	Sdf
-  ## 2.	Asf
-  ## 3.	Asdf
-  ## 4.	ASD
+  1. Sdf
+  2. Asf
+  3. Asdf
+  4. ASD
