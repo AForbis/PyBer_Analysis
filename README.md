@@ -11,7 +11,7 @@ After completing these two tasks, we were to summarize how the data varied by ci
 
 # __Results__
 
-Below is a summary of the ride-sharing data across the different city types:
+**Figure 1 - Ride-sharing data across city types**
 
 ![](PyBer_SummaryDF.png)
 
@@ -30,6 +30,7 @@ Below is a summary of the ride-sharing data across the different city types:
   - Rural vs. Suburban: Rural cities had approximately 12% higher average fares per ride and 40% higher fares per drive than suburban cities.
   - Rural vs. Urban: Rural cities had approximately 41% higher average fares per ride and 235% higher fares per drive than urban cities.
 
+**Figure 2**
 
 ![](tfb_ByCity.png)
 
