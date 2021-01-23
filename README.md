@@ -15,7 +15,7 @@ Below is a summary of the ride-sharing data across the different city types:
 
 ![](PyBer_SummaryDF.png)
 
-**Total Rides / Total Drivers**: 
+**__Total Rides / Total Drivers__**: 
   - Urban cities had significantly higher numbers of rides and drivers than suburban or rural cities.
   - Urban vs. Suburban: Urban cities had approximately 2.5x more rides and 5x more drivers than suburban cities.
   - Urban vs. Rural: Urban cities had approximately 13x more rides and 31x more drivers than rural cities.
