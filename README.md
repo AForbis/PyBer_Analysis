@@ -15,7 +15,7 @@ Below is a summary of the ride-sharing data across the different city types:
 
 ![](PyBer_SummaryDF.png)
 
-ZXcZXc
+**Total Rides / Total Drivers**: Unsurprisingly, larger city types came with higher numbers of rides and drivers. more 
 
 ![](tfb_ByCity.png)
 
@@ -27,3 +27,10 @@ aasdf
   2. Asf
   3. Asdf
   4. ASD
+
+# __Data Sources__
+
+  1. sdf
+  2. asd
+  3. asdf
+  4. asdf
