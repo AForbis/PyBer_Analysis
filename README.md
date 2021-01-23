@@ -2,12 +2,12 @@ __PyBer Analysis__
 
 __Overview of the analysis__
 
-#Following the initial analysis, V. Isualize gave us two new tasks:
+##Following the initial analysis, V. Isualize gave us two new tasks:
 
-  #1.	Create a summary DataFrame of the ride-sharing data by city type. 
-  #2.	Create a multiple-line graph that shows the total weekly fares for each city type. 
+  ##1.	Create a summary DataFrame of the ride-sharing data by city type. 
+  ##2.	Create a multiple-line graph that shows the total weekly fares for each city type. 
 
-After completing these two tasks, we were to summarize how the data varied by city type and how any differences could inform future decisions at PyBer.
+##After completing these two tasks, we were to summarize how the data varied by city type and how any differences could inform future decisions at PyBer.
 
 __Results__
 
