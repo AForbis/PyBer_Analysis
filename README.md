@@ -44,7 +44,8 @@ After completing these two tasks, we were to summarize how the data varied by ci
 
 # __Data Sources__
 
-  1. sdf
-  2. asd
-  3. asdf
-  4. asdf
+  1. [PyBer_Challenge.ipynb](PyBer_Challenge.ipynb)
+  2. [city_data.csv](Resources/city_data.csv)
+  3. [ride_data.csv](Resources/ride_data.csv)
+  4. [merged_pyber_data.csv](merged_pyber_data.csv)
+  
