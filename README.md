@@ -15,11 +15,22 @@ Below is a summary of the ride-sharing data across the different city types:
 
 ![](PyBer_SummaryDF.png)
 
-**Total Rides / Total Drivers**: Unsurprisingly, larger city types came with higher numbers of rides and drivers. more 
+**Total Rides / Total Drivers**: 
+  - Urban cities had significantly higher numbers of rides and drivers than suburban or rural cities.
+  - Urban vs. Suburban: Urban cities had approximately 2.5x more rides and 5x more drivers than suburban cities.
+  - Urban vs. Rural: Urban cities had approximately 13x more rides and 31x more drivers than rural cities.
+
+**Total Fares**: 
+  - Urban cities had significantly higher total fares than than suburban or rural cities.
+  - Urban vs. Suburban: Urban cities brought in over $20 million more in total fares than suburban cities.
+  - Urban vs. Rural: Urban cities brought in over $35 million more in total fares than rural cities.
+
+**Average Fair per Ride / Average Fair per Drive**: 
+asdf
+
 
 ![](tfb_ByCity.png)
 
-aasdf 
 
 # __Recommendations to address disparities among city types__
 
