@@ -1,11 +1,25 @@
-# PyBer Analysis
+**PyBer Analysis**
+**Overview of the analysis**
+##Following the initial analysis, V. Isualize gave us two new tasks:
+1.	Create a summary DataFrame of the ride-sharing data by city type. 
 
-Use your repository README file to write your analysis of how to address any disparities in the ride-sharing data among the city types.
+2.	Create a multiple-line graph that shows the total weekly fares for each city type. 
+##After completing these two tasks, we were to summarize how the data varied by city type and how any differences could inform future decisions at PyBer.
 
-The analysis should contain the following:
+**Results** 
 
-Overview of the analysis: Explain the purpose of the new analysis.
+## Below is a summary of the ride-sharing data across the different city types:
 
-Results: Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
+![](PyBer_SummaryDF.png)
 
-Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
+## ZXcZXc
+
+![](tfb_ByCity.png)
+
+## aasdf 
+
+**Recommendations to address disparities among city types**
+1.	Sdf
+2.	Asf
+3.	Asdf
+4.	ASD
