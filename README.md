@@ -35,10 +35,10 @@ After completing these two tasks, we were to summarize how the data varied by ci
 ![](tfb_ByCity.png)
 
 **Total Fares by City Type**
-  - values are range bound by about $500 in each city type
-  - no city type eclipses another for any one week
-  - few if any shared spikes across all 3 city types (outside of the late Feb. spike - what holiday is late Feb since that is a week or more after V-day???) 
-  - trendlines by month for each...
+  - The leader of total fares of by city type is consistent throughout, with urban cities having the highest total fares, followed by suburban then rural.
+  - There is not a single week in which the total fares for one city type eclipses another.
+  - The total fares for each city type are relatively range bound within a band of approximately $500.
+  - There are very few shared spikes or falls across all 3 city types. The only shared spike across all 3 city types is in late February, which is followed by the only shared fall the week after.
 
 # __Recommendations to address disparities among city types__
 
