@@ -25,10 +25,10 @@ After completing these two tasks, we were to summarize how the data varied by ci
   - *Urban vs. Suburban*: Urban cities brought in over $20 million more in total fares than suburban cities.
   - *Urban vs. Rural*: Urban cities brought in over $35 million more in total fares than rural cities.
 
-**Average Fare per Ride / Average Fare per Drive**
-  - Rural cities had the highest average fares per ride and average fares per drive compared to suburban and urban cities.
-  - *Rural vs. Suburban*: Rural cities had approximately 12% higher average fares per ride and 40% higher fares per drive than suburban cities.
-  - *Rural vs. Urban*: Rural cities had approximately 41% higher average fares per ride and 235% higher fares per drive than urban cities.
+**Average Fare per Ride / Average Fare per Driver**
+  - Rural cities had the highest average fares per ride and average fares per driver compared to suburban and urban cities.
+  - *Rural vs. Suburban*: Rural cities had approximately 12% higher average fares per ride and 40% higher fares per driver than suburban cities.
+  - *Rural vs. Urban*: Rural cities had approximately 41% higher average fares per ride and 235% higher fares per driver than urban cities.
 
 **Figure 2**
 
@@ -42,7 +42,7 @@ After completing these two tasks, we were to summarize how the data varied by ci
 
 # __Recommendations to address disparities among city types__
 
-  1. Sdf
+  1. Expanding the pool of drivers in suburban and rural areas may lead to increase
   2. Asf
   3. Asdf
 
