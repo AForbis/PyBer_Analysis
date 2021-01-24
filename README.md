@@ -34,13 +34,17 @@ After completing these two tasks, we were to summarize how the data varied by ci
 
 ![](tfb_ByCity.png)
 
+**Total Fares by City Type**
+  - values are range bound by about $500 in each city type
+  - no city type eclipses another for any one week
+  - few if any shared spikes across all 3 city types (outside of the late Feb. spike - what holiday is late Feb since that is a week or more after V-day???) 
+  - trendlines by month for each...
 
 # __Recommendations to address disparities among city types__
 
   1. Sdf
   2. Asf
   3. Asdf
-  4. ASD
 
 # __Data Sources__
 
