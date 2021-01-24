@@ -13,7 +13,7 @@ After completing these two tasks, we were to summarize how the data varied by ci
 
 **Figure 1 - Ride-sharing data across city types**
 
-![](PyBer_SummaryDF.png)
+![](Screenshots/PyBer_SummaryDF.png)
 
 **Total Rides / Total Drivers** 
   - Urban cities had significantly higher numbers of rides and drivers than suburban or rural cities.
@@ -32,7 +32,7 @@ After completing these two tasks, we were to summarize how the data varied by ci
 
 **Figure 2**
 
-![](tfb_ByCity.png)
+![](Screenshots/tfb_ByCity.png)
 
 **Total Fares by City Type**
   - The leader of total fares of by city type is consistent throughout, with urban cities having the highest total fares, followed by suburban then rural.
@@ -42,9 +42,10 @@ After completing these two tasks, we were to summarize how the data varied by ci
 
 # __Recommendations to address disparities among city types__
 
-  1. Expanding the pool of drivers in suburban and rural areas may lead to increase
-  2. Asf
-  3. Asdf
+  1. *Pilot driver expansion in rural areas*: The total number of rides was significantly lower in rural areas. One reason for lower ridership might be the limited access to drivers. To test this you could pilot an expansion of the pool of drivers in rural areas to study its effect on the total number of rides and other metrics.
+  2. *Pilot driver reductions in urban areas*: The average fares per driver was significantly lower in urban areas. 
+  3. *Pilot lower fares in rural areas*: Decrease average fares per ride in rural areas
+  4. *Pilot higer fares in urban areas*: Increase average fares per driver in urban areas
 
 # __Data Sources__
 
