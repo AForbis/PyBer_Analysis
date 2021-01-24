@@ -30,7 +30,7 @@ After completing these two tasks, we were to summarize how the data varied by ci
   - *Rural vs. Suburban*: Rural cities had approximately 12% higher average fares per ride and 40% higher fares per driver than suburban cities.
   - *Rural vs. Urban*: Rural cities had approximately 41% higher average fares per ride and 235% higher fares per driver than urban cities.
 
-**Figure 2**
+**Figure 2 - Total Fares by City Type**
 
 ![](Screenshots/tfb_ByCity.png)
 
@@ -42,10 +42,9 @@ After completing these two tasks, we were to summarize how the data varied by ci
 
 # __Recommendations to address disparities among city types__
 
-  1. *Pilot driver expansion in rural areas*: The total number of rides was significantly lower in rural areas. One reason for lower ridership might be the limited access to drivers. To test this you could pilot an expansion of the pool of drivers in rural areas to study its effect on the total number of rides and other metrics.
-  2. *Pilot driver reductions in urban areas*: The average fares per driver was significantly lower in urban areas. 
-  3. *Pilot lower fares in rural areas*: Decrease average fares per ride in rural areas
-  4. *Pilot higer fares in urban areas*: Increase average fares per driver in urban areas
+  1. *Pilot driver expansion in rural areas*: The total number of rides was significantly lower in rural areas. One reason for lower ridership might be the limited access to drivers. To test this you could pilot an expansion of the pool of drivers in rural areas to study its effects on the total number of rides, total fares, and other key ride-sharing metrics in rural areas.
+  2. *Pilot higher fares in urban areas*: The average fares per driver was significantly lower in urban areas. To improve driver wage parity and driver satisfaction, you could pilot an increase to the price of rides (or the proportion of drivers' profit per ride) in urban areas to study its effects on urban driver satisfaction and other key ride-sharing metrics in urban areas.
+  3. *Pilot lower fares in rural areas*: The average fares customers paid per ride was significantly higher in rural areas. To test if these higher fares was limiting ridership in rural areas, you could reduce the fare price in rural areas and study its effects on the total number of rides, total fares, and other key ride-sharing metrics in rural areas.
 
 # __Data Sources__
 
